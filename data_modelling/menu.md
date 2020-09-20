@@ -19,7 +19,7 @@ Response
     "name": "string",
     "price": "number",
     "category": "enum [starters, maincourse, desserts]",
-    "veg": "boolean"
+    "veg": "boolean",
     "description": "optional",
 }
 ```
@@ -35,7 +35,7 @@ Response
             "name": "string",
             "price": "number",
             "category": "enum [starters, maincourse, desserts]",
-            "veg": "boolean"
+            "veg": "boolean",
             "description": "optional",
         }       
     ]
@@ -51,7 +51,7 @@ Response
     "name": "string",
     "price": "number",
     "category": "enum [starters, maincourse, desserts]",
-    "veg": "boolean"
+    "veg": "boolean",
     "description": "optional",
 }
 ```
@@ -64,7 +64,7 @@ Request
     "name": "string",
     "price": "number",
     "category": "enum [starters, maincourse, desserts]",
-    "veg": "boolean"
+    "veg": "boolean",
     "description": "some desc"   
 }
 ```
