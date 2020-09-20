@@ -15,7 +15,7 @@ Request:
 Response
 ```json
 {
-    "dishId": "globa id",
+    "dishId": "global id",
     "name": "string",
     "price": "number",
     "category": "enum [starters, maincourse, desserts]",
@@ -31,7 +31,7 @@ Response
 {
     "menu": [
         {
-            "dishId": "globa id",
+            "dishId": "global id",
             "name": "string",
             "price": "number",
             "category": "enum [starters, maincourse, desserts]",
@@ -47,7 +47,7 @@ Response
 Response 
 ```json
 {
-    "dishId": "globa id",
+    "dishId": "global id",
     "name": "string",
     "price": "number",
     "category": "enum [starters, maincourse, desserts]",
@@ -71,7 +71,7 @@ Request
 Response
 ```json
 {
-    "dishId": "globa id",
+    "dishId": "global id",
     "name": "string",
     "price": "number",
     "category": "enum [starters, maincourse, desserts]",
