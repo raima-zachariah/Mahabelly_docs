@@ -10,6 +10,7 @@ Request:
     "category": "enum [starters, maincourse, desserts]",
     "veg": "boolean",
     "description": "optional",
+    "availability": "boolean",
 }
 ```
 Response
@@ -21,6 +22,7 @@ Response
     "category": "enum [starters, maincourse, desserts]",
     "veg": "boolean",
     "description": "optional",
+    "availability": "boolean",
 }
 ```
 
@@ -37,6 +39,7 @@ Response
             "category": "enum [starters, maincourse, desserts]",
             "veg": "boolean",
             "description": "optional",
+            "availability": "boolean",
         }       
     ]
 }
@@ -53,6 +56,7 @@ Response
     "category": "enum [starters, maincourse, desserts]",
     "veg": "boolean",
     "description": "optional",
+    "availability": "boolean",
 }
 ```
 
@@ -65,7 +69,8 @@ Request
     "price": "number",
     "category": "enum [starters, maincourse, desserts]",
     "veg": "boolean",
-    "description": "some desc"   
+    "description": "some desc",
+    "availability": "boolean",
 }
 ```
 Response
@@ -77,6 +82,7 @@ Response
     "category": "enum [starters, maincourse, desserts]",
     "veg": "boolean",
     "description": "optional",
+    "availability": "boolean",
 }
 ```
 
