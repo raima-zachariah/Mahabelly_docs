@@ -75,7 +75,7 @@ Response
     "name": "string",
     "price": "number",
     "category": "enum [starters, maincourse, desserts]",
-    "veg": "boolean"
+    "veg": "boolean",
     "description": "optional",
 }
 ```
