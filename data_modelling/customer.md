@@ -106,7 +106,7 @@ Response
 }
 ```
 
-### PUT /user/{phone}
+### PATCH /user/{phone}
 ------------------------
 Request
 ```json
